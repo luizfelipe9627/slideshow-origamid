@@ -1,7 +1,7 @@
 # SlideShow - Origamid
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)   
 
-<img src="https://github.com/luizfelipe9627/slideshow-origamid/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do SlideShow">
+<img src="https://github.com/luizfelipe9627/slideshow-origamid/blob/main/src/assets/apresentacao.gif" alt="Apresentação do SlideShow">
 
 ## 📄 Descrição
 Básicamente um slideshow é uma apresentação dos slides, esse slideshow contém 3 slides que podem ser passados apertando botões.
